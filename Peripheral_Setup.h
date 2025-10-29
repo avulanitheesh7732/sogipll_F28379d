@@ -1,8 +1,7 @@
 /*
  * Peripheral_Setup.h
  *
- *  Created on: 23 de jul de 2020
- *      Author: waner
+ 
  */
 
 #ifndef PERIPHERAL_SETUP_H_
@@ -14,3 +13,4 @@ void Setup_ePWM(void);
 void Setup_ADC(void);
 void Setup_DAC(void);
 #endif /* PERIPHERAL_SETUP_H_ */
+
